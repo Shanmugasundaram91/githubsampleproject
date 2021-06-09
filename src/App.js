@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Sample project for github</h1>
+      <h1>Sample project for githubs</h1>
     </div>
   );
 }
